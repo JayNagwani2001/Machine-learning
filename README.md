@@ -1,2 +1,3 @@
 # Machine-learning
-Hello This is my git repo for Machine Learning
+Hello This is my first git repository for Machine Learning.
+
